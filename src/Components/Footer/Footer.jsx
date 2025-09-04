@@ -59,6 +59,7 @@ const Footer = () => {
         {/* Copyright */}
         <p className="text-sm text-gray-400 mt-10">
           &copy; 2025 Varesh Wani. All rights reserved
+          Made by ❤️ Varesh Wani
         </p>
       </div>
     </footer>
@@ -66,3 +67,4 @@ const Footer = () => {
 };
 
 export default Footer;
+
