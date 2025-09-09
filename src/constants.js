@@ -59,8 +59,8 @@ export const SkillsInfo = [
       { name: 'CSS', logo: cssLogo },
       { name: 'JavaScript', logo: javascriptLogo },
       { name: 'React JS', logo: reactjsLogo },
-      { name: 'Redux', logo: reduxLogo },
-      { name: 'Next JS', logo: nextjsLogo },
+      // { name: 'Redux', logo: reduxLogo },
+      // { name: 'Next JS', logo: nextjsLogo },
       { name: 'Tailwind CSS', logo: tailwindcssLogo },
       { name: 'Bootstrap', logo: bootstrapLogo },
     ],
@@ -68,8 +68,8 @@ export const SkillsInfo = [
   {
     title: 'Backend',
     skills: [
-      { name: 'Springboot', logo: springbootLogo },
-      { name: 'Node JS', logo: nodejsLogo },
+      // { name: 'Springboot', logo: springbootLogo },
+      // { name: 'Node JS', logo: nodejsLogo },
       { name: 'Express JS', logo: expressjsLogo },
       { name: 'MySQL', logo: mysqlLogo },
       { name: 'MongoDB', logo: mongodbLogo },
@@ -79,7 +79,7 @@ export const SkillsInfo = [
     title: 'Languages',
     skills: [
       { name: 'C', logo: cLogo },
-      { name: 'C++', logo: cppLogo },
+      // { name: 'C++', logo: cppLogo },
       { name: 'Java', logo: javaLogo },
       { name: 'JavaScript', logo: javascriptLogo },
       { name: 'MySQL', logo: mysqlLogo },
@@ -93,9 +93,9 @@ export const SkillsInfo = [
       { name: 'Git', logo: gitLogo },
       { name: 'GitHub', logo: githubLogo },
       { name: 'VS Code', logo: vscodeLogo },
-      { name: 'Postman', logo: postmanLogo },
-      { name: 'Compass', logo: mcLogo },
-      { name: 'Figma', logo: figmaLogo },
+      // { name: 'Postman', logo: postmanLogo },
+      // { name: 'Compass', logo: mcLogo },
+      // { name: 'Figma', logo: figmaLogo },
     ],
   },
 ];
@@ -235,4 +235,5 @@ export const SkillsInfo = [
       webapp: "",
     },
   
+
   ];  
