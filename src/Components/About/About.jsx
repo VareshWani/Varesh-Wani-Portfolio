@@ -1,7 +1,7 @@
 import React from 'react'
 import { TypeAnimation } from 'react-type-animation'
 import Tilt from "react-parallax-tilt"
-import ProfileImage from "../../assets/VareshProfileCropped.jpeg"
+import ProfileImage from "../../assets/VareshCropped.png"
 
 const About = () => {
   return (
@@ -108,3 +108,4 @@ const About = () => {
 }
 
 export default About
+
