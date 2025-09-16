@@ -116,10 +116,12 @@ export const SkillsInfo = [
         "Node JS",
         "Tailwind CSS",
         "MongoDb",
-        "Redux",
-        "SpringBoot",
-        "Servelets",
-        "Microservices"
+        "C",
+        "SQL",
+        // "Redux",
+        // "SpringBoot",
+        // "Servelets",
+        // "Microservices"
       ],
     },
     {
@@ -237,3 +239,4 @@ export const SkillsInfo = [
   
 
   ];  
+
