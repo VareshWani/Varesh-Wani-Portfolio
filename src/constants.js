@@ -118,6 +118,7 @@ export const SkillsInfo = [
         "MongoDb",
         "C",
         "SQL",
+        "Java",
         // "Redux",
         // "SpringBoot",
         // "Servelets",
@@ -239,4 +240,5 @@ export const SkillsInfo = [
   
 
   ];  
+
 
